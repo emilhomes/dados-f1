@@ -1,0 +1,441 @@
+Name,Date,Round,Url,Driver,Constructor,Grid,Position,Status,Points,Time_Millis,Fastest_Lap_Rank,Fastest_Lap_Time
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,max_verstappen,red_bull,1,1,Finished,25,5636736,6,1:36.236
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,perez,red_bull,2,2,Finished,18,5648723,7,1:36.344
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,alonso,aston_martin,5,3,Finished,15,5675373,5,1:36.156
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,sainz,ferrari,4,4,Finished,12,5684788,14,1:37.130
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,hamilton,mercedes,7,5,Finished,10,5687713,10,1:36.546
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,stroll,aston_martin,8,6,Finished,8,5691238,9,1:36.546
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,russell,mercedes,6,7,Finished,6,5692609,17,1:37.221
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,bottas,alfa,12,8,Finished,4,5709383,18,1:37.379
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,gasly,alpine,20,9,Finished,2,5710489,2,1:35.068
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,albon,williams,15,10,Finished,1,5726510,15,1:37.144
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,tsunoda,alphatauri,14,11,Finished,0,5727606,12,1:36.637
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,sargeant,williams,16,12,Lapped,0,5637872,4,1:36.037
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,kevin_magnussen,haas,17,13,Lapped,0,5653493,8,1:36.471
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,de_vries,alphatauri,19,14,Lapped,0,5659259,19,1:37.709
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,hulkenberg,haas,10,15,Lapped,0,5675647,11,1:36.616
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,zhou,alfa,13,16,Lapped,0,5676385,1,1:33.996
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,norris,mclaren,11,17,Lapped,0,5643372,3,1:35.822
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,ocon,alpine,9,18,Retired,0,,13,1:36.797
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,leclerc,ferrari,3,19,Retired,0,,16,1:37.170
+Bahrain Grand Prix,2023-03-05,1,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,piastri,mclaren,18,20,Retired,0,,20,1:40.691
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,perez,red_bull,1,1,Finished,25,4874894,2,1:32.188
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,max_verstappen,red_bull,15,2,Finished,19,4880249,1,1:31.906
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,alonso,aston_martin,2,3,Finished,15,4895622,3,1:32.240
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,russell,mercedes,3,4,Finished,12,4900760,4,1:32.433
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,hamilton,mercedes,7,5,Finished,10,4905959,6,1:32.941
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,sainz,ferrari,4,6,Finished,8,4910770,5,1:32.822
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,leclerc,ferrari,12,7,Finished,6,4918056,7,1:33.056
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,ocon,alpine,6,8,Finished,4,4927726,8,1:33.222
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,gasly,alpine,9,9,Finished,2,4929641,10,1:33.392
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,kevin_magnussen,haas,13,10,Finished,1,4939720,9,1:33.374
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,tsunoda,alphatauri,16,11,Finished,0,4942388,14,1:33.931
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,hulkenberg,haas,10,12,Finished,0,4945482,12,1:33.780
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,zhou,alfa,11,13,Finished,0,4950954,13,1:33.894
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,de_vries,alphatauri,18,14,Finished,0,4952372,11,1:33.609
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,piastri,mclaren,8,15,Finished,0,4959915,16,1:34.287
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,sargeant,williams,20,16,Finished,0,4961187,18,1:34.469
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,norris,mclaren,19,17,Finished,0,4961339,15,1:34.122
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,bottas,alfa,14,18,Lapped,0,4904478,17,1:34.384
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,albon,williams,17,19,Retired,0,,20,1:35.567
+Saudi Arabian Grand Prix,2023-03-19,2,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,stroll,aston_martin,5,20,Retired,0,,19,1:35.140
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,max_verstappen,red_bull,1,1,Finished,25,9158371,2,1:20.342
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,hamilton,mercedes,3,2,Finished,18,9158550,5,1:20.613
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,alonso,aston_martin,4,3,Finished,15,9159140,4,1:20.476
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,stroll,aston_martin,6,4,Finished,12,9161453,6,1:20.934
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,perez,red_bull,20,5,Finished,11,9161691,1,1:20.235
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,norris,mclaren,13,6,Finished,8,9162072,9,1:21.173
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,hulkenberg,haas,10,7,Finished,6,9163310,8,1:21.124
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,piastri,mclaren,16,8,Finished,4,9163753,12,1:21.335
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,zhou,alfa,17,9,Finished,2,9164084,16,1:21.819
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,tsunoda,alphatauri,12,10,Finished,1,9164423,15,1:21.789
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,bottas,alfa,19,11,Finished,0,9164884,17,1:22.233
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,sainz,ferrari,5,12,Finished,0,9164965,3,1:20.467
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,gasly,alpine,9,13,Retired,0,7003407,7,1:20.995
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,ocon,alpine,11,14,Retired,0,7004780,11,1:21.203
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,de_vries,alphatauri,15,15,Retired,0,7005713,10,1:21.183
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,sargeant,williams,18,16,Retired,0,7005930,13,1:21.456
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,kevin_magnussen,haas,14,17,Retired,0,5634610,14,1:21.685
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,russell,mercedes,2,18,Retired,0,,18,1:22.680
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,albon,williams,8,19,Retired,0,,19,1:23.349
+Australian Grand Prix,2023-04-02,3,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,leclerc,ferrari,7,20,Retired,0,,,
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,perez,red_bull,3,1,Finished,25,5562436,5,1:44.589
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,max_verstappen,red_bull,2,2,Finished,18,5564573,2,1:44.232
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,leclerc,ferrari,1,3,Finished,15,5583653,4,1:44.561
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,alonso,aston_martin,6,4,Finished,12,5584460,3,1:44.241
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,sainz,ferrari,4,5,Finished,10,5607927,6,1:45.175
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,hamilton,mercedes,5,6,Finished,8,5608581,7,1:45.346
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,stroll,aston_martin,9,7,Finished,6,5614053,9,1:45.627
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,russell,mercedes,11,8,Finished,5,5636676,1,1:43.370
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,norris,mclaren,7,9,Finished,2,5642812,12,1:45.738
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,tsunoda,alphatauri,8,10,Finished,1,5646298,11,1:45.727
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,piastri,mclaren,10,11,Finished,0,5648937,10,1:45.631
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,albon,williams,12,12,Finished,0,5651059,15,1:45.925
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,kevin_magnussen,haas,16,13,Finished,0,5652165,13,1:45.850
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,gasly,alpine,17,14,Finished,0,5653768,8,1:45.540
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,ocon,alpine,19,15,Finished,0,5660230,14,1:45.908
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,sargeant,williams,14,16,Finished,0,5663379,17,1:46.501
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,hulkenberg,haas,20,17,Lapped,0,5572373,18,1:46.731
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,bottas,alfa,13,18,Lapped,0,5581534,16,1:46.304
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,zhou,alfa,15,19,Retired,0,,19,1:47.553
+Azerbaijan Grand Prix,2023-04-30,4,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,de_vries,alphatauri,18,20,Retired,0,,20,1:48.781
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,max_verstappen,red_bull,9,1,Finished,26,5258241,1,1:29.708
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,perez,red_bull,1,2,Finished,18,5263625,3,1:30.560
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,alonso,aston_martin,2,3,Finished,15,5284546,2,1:30.519
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,russell,mercedes,6,4,Finished,12,5291470,7,1:31.015
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,sainz,ferrari,3,5,Finished,10,5300752,10,1:31.362
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,hamilton,mercedes,13,6,Finished,8,5309490,4,1:30.669
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,leclerc,ferrari,7,7,Finished,6,5311229,11,1:31.434
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,gasly,alpine,5,8,Finished,4,5313911,17,1:31.971
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,ocon,alpine,8,9,Finished,2,5316364,9,1:31.143
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,kevin_magnussen,haas,4,10,Finished,1,5321186,13,1:31.691
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,tsunoda,alphatauri,17,11,Finished,0,5322550,8,1:31.038
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,stroll,aston_martin,18,12,Finished,0,5322995,5,1:30.862
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,bottas,alfa,10,13,Finished,0,5329878,15,1:31.838
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,albon,williams,11,14,Finished,0,5331102,16,1:31.852
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,hulkenberg,haas,12,15,Finished,0,5333191,6,1:30.901
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,zhou,alfa,14,16,Finished,0,5336681,14,1:31.736
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,norris,mclaren,16,17,Finished,0,5345958,20,1:32.401
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,de_vries,alphatauri,15,18,Finished,0,5347190,12,1:31.562
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,piastri,mclaren,19,19,Lapped,0,5278751,18,1:32.006
+Miami Grand Prix,2023-05-07,5,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,sargeant,williams,20,20,Lapped,0,5292629,19,1:32.384
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,max_verstappen,red_bull,1,1,Finished,25,6531980,7,1:16.604
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,alonso,aston_martin,2,2,Finished,18,6559901,9,1:16.674
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,ocon,alpine,3,3,Finished,15,6568970,6,1:16.528
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,hamilton,mercedes,5,4,Finished,13,6571042,1,1:15.650
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,russell,mercedes,8,5,Finished,10,6588264,10,1:16.798
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,leclerc,ferrari,6,6,Finished,8,6593870,2,1:15.773
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,gasly,alpine,7,7,Finished,6,6594342,3,1:15.831
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,sainz,ferrari,4,8,Finished,4,6595371,5,1:16.449
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,norris,mclaren,10,9,Lapped,2,6536041,19,1:17.844
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,piastri,mclaren,11,10,Lapped,1,6545939,14,1:17.513
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,bottas,alfa,15,11,Lapped,0,6560943,18,1:17.824
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,de_vries,alphatauri,12,12,Lapped,0,6589297,15,1:17.561
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,zhou,alfa,19,13,Lapped,0,6603832,11,1:16.926
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,albon,williams,13,14,Lapped,0,6611190,8,1:16.672
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,tsunoda,alphatauri,9,15,Lapped,0,6539525,16,1:17.680
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,perez,red_bull,20,16,Lapped,0,6581004,4,1:16.269
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,hulkenberg,haas,18,17,Lapped,0,6590486,12,1:16.991
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,sargeant,williams,16,18,Lapped,0,6609963,13,1:17.302
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,kevin_magnussen,haas,17,19,Retired,0,6156799,20,1:18.351
+Monaco Grand Prix,2023-05-28,6,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,stroll,aston_martin,14,20,Retired,0,,17,1:17.769
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,max_verstappen,red_bull,1,1,Finished,26,5277940,1,1:16.330
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,hamilton,mercedes,4,2,Finished,18,5302030,3,1:16.676
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,russell,mercedes,12,3,Finished,15,5310329,5,1:17.875
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,perez,red_bull,11,4,Finished,12,5313752,2,1:16.666
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,sainz,ferrari,2,5,Finished,10,5323638,11,1:18.403
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,stroll,aston_martin,5,6,Finished,8,5341260,14,1:18.722
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,alonso,aston_martin,8,7,Finished,6,5342067,7,1:18.083
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,ocon,alpine,6,8,Finished,4,5347182,18,1:18.946
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,zhou,alfa,13,9,Finished,2,5349818,15,1:18.753
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,gasly,alpine,10,10,Finished,1,5351470,10,1:18.375
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,leclerc,ferrari,19,11,Finished,0,5352359,9,1:18.357
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,tsunoda,alphatauri,15,12,Finished,0,5353356,17,1:18.904
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,piastri,mclaren,9,13,Lapped,0,5282215,13,1:18.679
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,de_vries,alphatauri,14,14,Lapped,0,5283267,12,1:18.594
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,hulkenberg,haas,7,15,Lapped,0,5295237,16,1:18.776
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,albon,williams,18,16,Lapped,0,5305648,19,1:19.133
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,norris,mclaren,3,17,Lapped,0,5308330,4,1:17.182
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,kevin_magnussen,haas,17,18,Lapped,0,5316020,6,1:18.069
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,bottas,alfa,16,19,Lapped,0,5327883,8,1:18.242
+Spanish Grand Prix,2023-06-04,7,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,sargeant,williams,20,20,Lapped,0,5329617,20,1:19.247
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,max_verstappen,red_bull,1,1,Finished,25,5638348,3,1:15.594
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,alonso,aston_martin,2,2,Finished,18,5647918,4,1:15.779
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,hamilton,mercedes,3,3,Finished,15,5652516,2,1:15.396
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,leclerc,ferrari,10,4,Finished,12,5656996,5,1:15.907
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,sainz,ferrari,11,5,Finished,10,5659888,6,1:15.911
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,perez,red_bull,12,6,Finished,9,5689376,1,1:14.481
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,albon,williams,9,7,Finished,6,5699161,16,1:16.917
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,ocon,alpine,6,8,Finished,4,5700040,15,1:16.782
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,stroll,aston_martin,16,9,Finished,2,5702750,10,1:16.564
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,bottas,alfa,14,10,Finished,1,5702780,12,1:16.625
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,piastri,mclaren,8,11,Finished,0,5703449,11,1:16.598
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,gasly,alpine,15,12,Finished,0,5703597,9,1:16.425
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,norris,mclaren,7,13,Finished,0,5706711,8,1:16.374
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,tsunoda,alphatauri,19,14,Finished,0,5711771,14,1:16.666
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,hulkenberg,haas,5,15,Lapped,0,5655291,19,1:17.232
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,zhou,alfa,20,16,Lapped,0,5655725,17,1:17.090
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,kevin_magnussen,haas,13,17,Lapped,0,5708607,7,1:16.126
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,de_vries,alphatauri,17,18,Lapped,0,5713315,13,1:16.656
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,russell,mercedes,4,19,Retired,0,,18,1:17.097
+Canadian Grand Prix,2023-06-18,8,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,sargeant,williams,18,20,Retired,0,,20,1:18.437
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,max_verstappen,red_bull,1,1,Finished,26,5133607,1,1:07.012
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,leclerc,ferrari,2,2,Finished,18,5138762,5,1:08.820
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,perez,red_bull,15,3,Finished,15,5150795,2,1:08.111
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,norris,mclaren,4,4,Finished,12,5159934,4,1:08.739
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,alonso,aston_martin,7,5,Finished,10,5163924,8,1:09.108
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,sainz,ferrari,3,6,Finished,8,5164984,6,1:08.880
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,russell,mercedes,11,7,Finished,6,5182010,10,1:09.283
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,hamilton,mercedes,5,8,Finished,4,5182803,9,1:09.160
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,stroll,aston_martin,6,9,Finished,2,5192650,3,1:08.463
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,gasly,alpine,9,10,Finished,1,5201274,7,1:09.046
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,albon,williams,10,11,Finished,0,5213374,11,1:09.560
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,zhou,alfa,17,12,Lapped,0,5158240,14,1:09.786
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,sargeant,williams,18,13,Lapped,0,5164991,12,1:09.611
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,ocon,alpine,12,14,Lapped,0,5175747,15,1:09.797
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,bottas,alfa,14,15,Lapped,0,5176384,18,1:09.940
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,piastri,mclaren,13,16,Lapped,0,5180176,17,1:09.862
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,de_vries,alphatauri,20,17,Lapped,0,5183310,16,1:09.852
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,kevin_magnussen,haas,19,18,Lapped,0,5190260,19,1:10.176
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,tsunoda,alphatauri,16,19,Lapped,0,5193480,13,1:09.620
+Austrian Grand Prix,2023-07-02,9,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,hulkenberg,haas,8,20,Retired,0,,20,1:11.066
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,max_verstappen,red_bull,1,1,Finished,26,5116938,1,1:30.275
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,norris,mclaren,2,2,Finished,18,5120736,2,1:30.543
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,hamilton,mercedes,7,3,Finished,15,5123721,3,1:30.545
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,piastri,mclaren,3,4,Finished,12,5124714,4,1:30.850
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,russell,mercedes,6,5,Finished,10,5128144,6,1:31.124
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,perez,red_bull,15,6,Finished,8,5129820,5,1:30.914
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,alonso,aston_martin,9,7,Finished,6,5134131,9,1:31.338
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,albon,williams,8,8,Finished,4,5134816,8,1:31.273
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,leclerc,ferrari,4,9,Finished,2,5135627,7,1:31.255
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,sainz,ferrari,5,10,Finished,1,5136386,10,1:31.366
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,sargeant,williams,14,11,Finished,0,5140570,13,1:31.699
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,bottas,alfa,20,12,Finished,0,5142768,16,1:31.852
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,hulkenberg,haas,11,13,Finished,0,5143601,15,1:31.776
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,stroll,aston_martin,12,14,Finished,0,5144421,11,1:31.508
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,zhou,alfa,17,15,Finished,0,5146758,14,1:31.769
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,tsunoda,alphatauri,16,16,Finished,0,5148163,17,1:32.084
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,de_vries,alphatauri,18,17,Finished,0,5150066,18,1:32.353
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,gasly,alpine,10,18,Retired,0,4655589,12,1:31.539
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,kevin_magnussen,haas,19,19,Retired,0,,19,1:33.356
+British Grand Prix,2023-07-09,10,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,ocon,alpine,13,20,Retired,0,,20,1:33.941
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,max_verstappen,red_bull,2,1,Finished,26,5888634,1,1:20.504
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,norris,mclaren,3,2,Finished,18,5922365,4,1:22.178
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,perez,red_bull,9,3,Finished,15,5926237,5,1:22.295
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,hamilton,mercedes,1,4,Finished,12,5927768,2,1:21.601
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,piastri,mclaren,4,5,Finished,10,5951206,8,1:22.736
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,russell,mercedes,18,6,Finished,8,5954459,3,1:22.158
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,leclerc,ferrari,6,7,Finished,6,5958951,6,1:22.469
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,sainz,ferrari,11,8,Finished,4,5959707,7,1:22.584
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,alonso,aston_martin,8,9,Finished,2,5964343,9,1:22.745
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,stroll,aston_martin,14,10,Lapped,1,5903249,11,1:23.425
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,albon,williams,16,11,Lapped,0,5917721,18,1:24.051
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,bottas,alfa,7,12,Lapped,0,5918713,14,1:23.651
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,ricciardo,alphatauri,13,13,Lapped,0,5924891,17,1:23.934
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,hulkenberg,haas,10,14,Lapped,0,5939932,13,1:23.573
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,tsunoda,alphatauri,17,15,Lapped,0,5940177,10,1:23.269
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,zhou,alfa,5,16,Lapped,0,5949125,15,1:23.743
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,kevin_magnussen,haas,19,17,Lapped,0,5970985,16,1:23.864
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,sargeant,williams,20,18,Retired,0,5789224,12,1:23.496
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,ocon,alpine,12,19,Retired,0,,,
+Hungarian Grand Prix,2023-07-23,11,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,gasly,alpine,15,20,Retired,0,,,
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,max_verstappen,red_bull,6,1,Finished,25,4950450,2,1:48.922
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,perez,red_bull,2,2,Finished,18,4972755,6,1:50.308
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,leclerc,ferrari,1,3,Finished,15,4982709,7,1:50.436
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,hamilton,mercedes,3,4,Finished,13,5000121,1,1:47.305
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,alonso,aston_martin,9,5,Finished,10,5006634,13,1:50.938
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,russell,mercedes,8,6,Finished,8,5013551,11,1:50.603
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,norris,mclaren,7,7,Finished,6,5024169,18,1:51.682
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,ocon,alpine,14,8,Finished,4,5025169,8,1:50.439
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,stroll,aston_martin,10,9,Finished,2,5029790,16,1:51.297
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,tsunoda,alphatauri,11,10,Finished,1,5030671,17,1:51.394
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,gasly,alpine,12,11,Finished,0,5033534,12,1:50.911
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,bottas,alfa,13,12,Finished,0,5035641,10,1:50.515
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,zhou,alfa,17,13,Finished,0,5045891,5,1:50.188
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,albon,williams,15,14,Finished,0,5046634,3,1:49.841
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,kevin_magnussen,haas,16,15,Finished,0,5052204,14,1:50.993
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,ricciardo,alphatauri,19,16,Finished,0,5053521,15,1:50.994
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,sargeant,williams,18,17,Finished,0,5054926,9,1:50.486
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,hulkenberg,haas,20,18,Finished,0,5060900,4,1:49.907
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,sainz,ferrari,4,19,Retired,0,,19,1:53.138
+Belgian Grand Prix,2023-07-30,12,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,piastri,mclaren,5,20,Retired,0,,,
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,max_verstappen,red_bull,1,1,Finished,25,8644411,2,1:13.889
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,alonso,aston_martin,5,2,Finished,19,8648155,1,1:13.837
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,gasly,alpine,12,3,Finished,15,8651469,7,1:14.441
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,perez,red_bull,7,4,Finished,12,8654479,4,1:14.231
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,sainz,ferrari,6,5,Finished,10,8656952,13,1:14.934
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,hamilton,mercedes,13,6,Finished,8,8657620,3,1:13.904
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,norris,mclaren,2,7,Finished,6,8657643,6,1:14.390
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,albon,williams,4,8,Finished,4,8659566,8,1:14.468
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,piastri,mclaren,8,9,Finished,2,8660991,5,1:14.299
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,ocon,alpine,16,10,Finished,1,8662757,10,1:14.570
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,stroll,aston_martin,11,11,Finished,0,8664498,15,1:15.171
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,hulkenberg,haas,14,12,Finished,0,8665251,9,1:14.472
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,lawson,alphatauri,19,13,Finished,0,8670558,12,1:14.820
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,bottas,alfa,18,14,Finished,0,8671799,11,1:14.698
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,tsunoda,alphatauri,17,15,Finished,0,8674304,18,1:16.253
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,kevin_magnussen,haas,0,16,Finished,0,8675821,17,1:15.489
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,russell,mercedes,3,17,Finished,0,8700165,14,1:15.124
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,zhou,alfa,15,18,Accident,0,,16,1:15.417
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,leclerc,ferrari,9,19,Undertray,0,,19,1:17.277
+Dutch Grand Prix,2023-08-27,13,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,sargeant,williams,10,20,Accident,0,,20,1:17.399
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,max_verstappen,red_bull,2,1,Finished,25,4421143,2,1:25.240
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,perez,red_bull,5,2,Finished,18,4427207,4,1:25.522
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,sainz,ferrari,1,3,Finished,15,4432336,3,1:25.501
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,leclerc,ferrari,3,4,Finished,12,4432520,5,1:25.580
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,russell,mercedes,4,5,Finished,10,4444171,9,1:25.847
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,hamilton,mercedes,8,6,Finished,8,4463822,6,1:25.582
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,albon,williams,6,7,Finished,6,4466249,16,1:26.389
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,norris,mclaren,9,8,Finished,4,4466592,14,1:26.144
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,alonso,aston_martin,10,9,Finished,2,4467437,13,1:26.105
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,bottas,alfa,14,10,Finished,1,4485199,12,1:25.988
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,lawson,alphatauri,12,11,Finished,0,4491781,8,1:25.842
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,piastri,mclaren,7,12,Finished,0,4494217,1,1:25.072
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,sargeant,williams,15,13,Finished,0,4499700,18,1:26.840
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,zhou,alfa,16,14,Finished,0,4501307,11,1:25.983
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,gasly,alpine,17,15,Finished,0,4503653,7,1:25.758
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,stroll,aston_martin,20,16,Finished,0,4508409,17,1:26.617
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,hulkenberg,haas,13,17,Lapped,0,4423236,10,1:25.894
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,kevin_magnussen,haas,19,18,Lapped,0,4433767,15,1:26.278
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,ocon,alpine,18,19,Retired,0,,19,1:26.963
+Italian Grand Prix,2023-09-03,14,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,tsunoda,alphatauri,11,20,Did not start,0,,,
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,sainz,ferrari,1,1,Finished,25,6397418,7,1:37.666
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,norris,mclaren,4,2,Finished,18,6398230,8,1:38.046
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,hamilton,mercedes,5,3,Finished,16,6398687,1,1:35.867
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,leclerc,ferrari,3,4,Finished,12,6418595,11,1:38.275
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,max_verstappen,red_bull,11,5,Finished,10,6418859,4,1:36.575
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,gasly,alpine,12,6,Finished,8,6435859,12,1:38.277
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,piastri,mclaren,17,7,Finished,6,6438897,13,1:38.492
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,perez,red_bull,13,8,Finished,4,6456952,5,1:37.108
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,lawson,alphatauri,10,9,Finished,2,6463336,15,1:39.028
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,kevin_magnussen,haas,6,10,Finished,1,6469534,10,1:38.107
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,albon,williams,14,11,Finished,0,6470835,6,1:37.342
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,zhou,alfa,19,12,Finished,0,6481067,16,1:39.316
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,hulkenberg,haas,9,13,Finished,0,6483619,17,1:39.923
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,sargeant,williams,18,14,Finished,0,6484307,14,1:38.531
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,alonso,aston_martin,7,15,Finished,0,6485021,3,1:36.456
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,russell,mercedes,2,16,Retired,0,6298932,2,1:36.273
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,bottas,alfa,16,17,Retired,0,,9,1:38.075
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,ocon,alpine,8,18,Retired,0,,18,1:39.930
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,tsunoda,alphatauri,15,19,Retired,0,,,
+Singapore Grand Prix,2023-09-17,15,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,stroll,aston_martin,0,20,Withdrew,0,,,
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,max_verstappen,red_bull,1,1,Finished,26,5458421,1,1:34.183
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,norris,mclaren,3,2,Finished,18,5477808,2,1:35.247
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,piastri,mclaren,2,3,Finished,15,5494915,5,1:36.328
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,leclerc,ferrari,4,4,Finished,12,5502419,6,1:36.362
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,hamilton,mercedes,7,5,Finished,10,5507797,3,1:35.611
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,sainz,ferrari,6,6,Finished,8,5508642,4,1:36.187
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,russell,mercedes,8,7,Finished,6,5516080,11,1:37.653
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,alonso,aston_martin,10,8,Finished,4,5533146,8,1:37.203
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,ocon,alpine,14,9,Finished,2,5538099,10,1:37.398
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,gasly,alpine,12,10,Finished,1,5541576,7,1:36.371
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,lawson,alphatauri,11,11,Lapped,0,5461510,15,1:38.267
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,tsunoda,alphatauri,9,12,Lapped,0,5462395,12,1:37.768
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,zhou,alfa,19,13,Lapped,0,5464761,13,1:37.791
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,hulkenberg,haas,18,14,Lapped,0,5468019,9,1:37.250
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,kevin_magnussen,haas,15,15,Lapped,0,5487991,14,1:37.842
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,albon,williams,13,16,Retired,0,,18,1:39.185
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,sargeant,williams,20,17,Retired,0,,16,1:38.848
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,stroll,aston_martin,17,18,Retired,0,,17,1:39.050
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,perez,red_bull,5,19,Retired,0,,19,1:39.704
+Japanese Grand Prix,2023-09-24,16,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,bottas,alfa,16,20,Retired,0,,20,2:02.755
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,max_verstappen,red_bull,1,1,Finished,26,5259168,1,1:24.319
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,piastri,mclaren,6,2,Finished,18,5264001,3,1:24.921
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,norris,mclaren,10,3,Finished,15,5265137,2,1:24.842
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,russell,mercedes,2,4,Finished,12,5293287,5,1:25.770
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,leclerc,ferrari,5,5,Finished,10,5298144,4,1:24.992
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,alonso,aston_martin,4,6,Finished,8,5308200,6,1:26.045
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,ocon,alpine,8,7,Finished,6,5321558,11,1:26.450
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,bottas,alfa,9,8,Finished,4,5325731,13,1:26.652
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,zhou,alfa,19,9,Finished,2,5335295,9,1:26.323
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,perez,red_bull,20,10,Finished,1,5339349,7,1:26.220
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,stroll,aston_martin,16,11,Finished,0,5340820,10,1:26.352
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,gasly,alpine,7,12,Finished,0,5341468,8,1:26.310
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,albon,williams,13,13,Finished,0,5350182,14,1:26.666
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,kevin_magnussen,haas,18,14,Lapped,0,5260414,15,1:27.067
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,tsunoda,alphatauri,11,15,Lapped,0,5268126,17,1:27.174
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,hulkenberg,haas,14,16,Lapped,0,5274253,12,1:26.489
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,lawson,alphatauri,17,17,Lapped,0,5286276,16,1:27.113
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,sargeant,williams,15,18,Retired,0,,18,1:27.983
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,hamilton,mercedes,3,19,Retired,0,,,
+Qatar Grand Prix,2023-10-08,17,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,sainz,ferrari,12,20,Did not start,0,,,
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,max_verstappen,red_bull,6,1,Finished,25,5721362,9,1:40.028
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,norris,mclaren,2,2,Finished,18,5732092,8,1:39.985
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,sainz,ferrari,4,3,Finished,15,5736496,10,1:40.034
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,perez,red_bull,9,4,Finished,12,5739822,5,1:39.737
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,russell,mercedes,5,5,Finished,10,5746361,3,1:39.393
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,gasly,alpine,7,6,Finished,8,5769358,11,1:40.412
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,stroll,aston_martin,20,7,Finished,6,5770058,6,1:39.908
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,tsunoda,alphatauri,11,8,Finished,5,5795747,1,1:38.139
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,albon,williams,15,9,Finished,2,5808076,15,1:41.318
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,sargeant,williams,16,10,Finished,1,5809360,14,1:41.238
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,hulkenberg,haas,18,11,Finished,0,5811266,12,1:40.925
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,bottas,alfa,13,12,Finished,0,5819963,18,1:41.972
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,zhou,alfa,12,13,Lapped,0,5724938,17,1:41.879
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,kevin_magnussen,haas,17,14,Lapped,0,5729434,16,1:41.506
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,ricciardo,alphatauri,14,15,Lapped,0,5730214,2,1:39.366
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,alonso,aston_martin,19,16,Retired,0,,7,1:39.954
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,piastri,mclaren,10,17,Retired,0,,19,1:42.705
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,ocon,alpine,8,18,Retired,0,,20,1:44.789
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,hamilton,mercedes,3,19,Disqualified,0,5723587,4,1:39.582
+United States Grand Prix,2023-10-22,18,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,leclerc,ferrari,1,20,Disqualified,0,5746024,13,1:41.025
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,max_verstappen,red_bull,3,1,Finished,25,7350814,2,1:21.644
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,hamilton,mercedes,6,2,Finished,19,7364689,1,1:21.334
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,leclerc,ferrari,1,3,Finished,15,7373938,4,1:22.332
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,sainz,ferrari,2,4,Finished,12,7377968,6,1:22.539
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,norris,mclaren,17,5,Finished,10,7384080,3,1:21.944
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,russell,mercedes,8,6,Finished,8,7391834,10,1:22.780
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,ricciardo,alphatauri,4,7,Finished,6,7392384,7,1:22.679
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,piastri,mclaren,7,8,Finished,4,7393918,8,1:22.760
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,albon,williams,14,9,Finished,2,7399387,9,1:22.773
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,ocon,alpine,15,10,Finished,1,7413693,11,1:22.976
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,gasly,alpine,11,11,Finished,0,7417022,16,1:23.230
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,tsunoda,alphatauri,18,12,Finished,0,7429796,5,1:22.501
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,hulkenberg,haas,12,13,Finished,0,7431123,15,1:23.222
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,zhou,alfa,10,14,Finished,0,7432490,19,1:23.567
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,bottas,alfa,9,15,Finished,0,7436411,14,1:23.166
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,sargeant,williams,19,16,Retired,0,,12,1:23.003
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,stroll,aston_martin,0,17,Collision damage,0,,17,1:23.257
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,alonso,aston_martin,13,18,Withdrew,0,,18,1:23.531
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,kevin_magnussen,haas,16,19,Accident,0,,13,1:23.146
+Mexico City Grand Prix,2023-10-29,19,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,perez,red_bull,5,20,Collision damage,0,,,
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,max_verstappen,red_bull,1,1,Finished,25,7008894,2,1:13.422
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,norris,mclaren,6,2,Finished,19,7017171,1,1:12.486
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,alonso,aston_martin,4,3,Finished,15,7043049,10,1:14.442
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,perez,red_bull,9,4,Finished,12,7043102,5,1:14.124
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,stroll,aston_martin,3,5,Finished,10,7049739,4,1:14.007
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,sainz,ferrari,7,6,Finished,8,7059082,9,1:14.406
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,gasly,alpine,15,7,Finished,6,7064987,11,1:14.521
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,hamilton,mercedes,5,8,Finished,4,7071753,12,1:14.739
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,tsunoda,alphatauri,16,9,Finished,2,7078774,7,1:14.231
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,ocon,alpine,14,10,Lapped,1,7018735,6,1:14.206
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,sargeant,williams,19,11,Lapped,0,7035102,16,1:15.738
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,hulkenberg,haas,11,12,Lapped,0,7038854,14,1:15.036
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,ricciardo,alphatauri,17,13,Lapped,0,7078855,3,1:13.866
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,piastri,mclaren,10,14,Lapped,0,7012530,8,1:14.310
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,russell,mercedes,8,15,Retired,0,,13,1:14.934
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,bottas,alfa,18,16,Retired,0,,15,1:15.731
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,zhou,alfa,20,17,Retired,0,,17,1:16.232
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,kevin_magnussen,haas,12,18,Retired,0,,,
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,albon,williams,13,19,Retired,0,,,
+São Paulo Grand Prix,2023-11-05,20,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,leclerc,ferrari,2,20,Did not start,0,,,
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,max_verstappen,red_bull,2,1,Finished,25,5348289,2,1:35.614
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,leclerc,ferrari,1,2,Finished,18,5350359,3,1:35.669
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,perez,red_bull,11,3,Finished,15,5350530,5,1:35.939
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,ocon,alpine,16,4,Finished,12,5366954,10,1:36.637
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,stroll,aston_martin,19,5,Finished,10,5368356,9,1:36.584
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,sainz,ferrari,12,6,Finished,8,5369123,6,1:35.984
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,hamilton,mercedes,10,7,Finished,6,5370044,4,1:35.716
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,russell,mercedes,3,8,Finished,4,5371380,7,1:36.071
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,alonso,aston_martin,9,9,Finished,2,5374253,8,1:36.559
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,piastri,mclaren,18,10,Finished,2,5377785,1,1:35.490
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,gasly,alpine,4,11,Finished,0,5382559,11,1:36.913
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,albon,williams,5,12,Finished,0,5391687,13,1:37.357
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,kevin_magnussen,haas,8,13,Finished,0,5393114,15,1:37.455
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,ricciardo,alphatauri,14,14,Finished,0,5396814,12,1:37.108
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,zhou,alfa,17,15,Finished,0,5398451,14,1:37.375
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,sargeant,williams,6,16,Finished,0,5399171,19,1:37.740
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,bottas,alfa,7,17,Finished,0,5433639,16,1:37.562
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,tsunoda,alphatauri,20,18,Retired,0,5018931,18,1:37.587
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,hulkenberg,haas,13,19,Retired,0,4903790,17,1:37.565
+Las Vegas Grand Prix,2023-11-19,21,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,norris,mclaren,15,20,Retired,0,,20,1:59.327
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,max_verstappen,red_bull,1,1,Finished,26,5222624,1,1:26.993
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,leclerc,ferrari,2,2,Finished,18,5240617,8,1:28.199
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,russell,mercedes,4,3,Finished,15,5242952,7,1:28.187
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,perez,red_bull,9,4,Finished,12,5244077,2,1:27.493
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,norris,mclaren,5,5,Finished,10,5246908,6,1:28.164
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,piastri,mclaren,3,6,Finished,8,5254111,5,1:28.138
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,alonso,aston_martin,7,7,Finished,6,5262136,9,1:28.256
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,tsunoda,alphatauri,6,8,Finished,4,5265712,16,1:29.256
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,hamilton,mercedes,11,9,Finished,2,5267048,10,1:28.372
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,stroll,aston_martin,13,10,Finished,1,5278256,4,1:28.050
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,ricciardo,alphatauri,15,11,Finished,0,5278853,11,1:28.571
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,ocon,alpine,12,12,Finished,0,5288997,20,1:30.033
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,gasly,alpine,10,13,Finished,0,5292984,14,1:29.016
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,albon,williams,14,14,Finished,0,5295808,3,1:27.845
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,hulkenberg,haas,8,15,Finished,0,5306320,15,1:29.217
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,sargeant,williams,20,16,Finished,0,5310415,12,1:28.580
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,zhou,alfa,19,17,Finished,0,5312046,13,1:28.746
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,sainz,ferrari,16,18,Retired,0,5210923,17,1:29.452
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,bottas,alfa,18,19,Lapped,0,5235035,18,1:29.863
+Abu Dhabi Grand Prix,2023-11-26,22,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,kevin_magnussen,haas,17,20,Lapped,0,5237500,19,1:29.934
